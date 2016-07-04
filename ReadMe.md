@@ -1,6 +1,4 @@
 
-<img src = "https://travis-ci.org/renjwjx/CircleLayout.svg?branch=master">
-
 [![Build Status](https://travis-ci.org/renjwjx/CircleLayout.svg?branch=master)](https://travis-ci.org/renjwjx/CircleLayout)
 
 ### CircleLayout ###
