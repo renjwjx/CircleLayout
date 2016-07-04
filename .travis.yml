@@ -1,4 +1,5 @@
 language: objective-c
 xcode_project: CircleLayout.xcodeproj # path to your xcodeproj folder
 xcode_scheme: CircleLayout
+xcode_sdk: iphonesimulator
 #travis start
