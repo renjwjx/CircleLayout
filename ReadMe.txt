@@ -1,4 +1,6 @@
 
+https://travis-ci.org/renjwjx/CircleLayout.svg?branch=master
+
 ### CircleLayout ###
 
 ===========================================================================
